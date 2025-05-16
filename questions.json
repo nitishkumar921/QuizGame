@@ -1,0 +1,217 @@
+[
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "Hyperlink Text Transfer Protocol", "Hybrid Transfer Protocol", "Hyper Transfer Text Protocol"],
+    "answer": 0
+  },
+  {
+    "question": "Which layer of the OSI model is responsible for routing?",
+    "options": ["Physical", "Data Link", "Network", "Transport"],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary purpose of DNS?",
+    "options": ["Translate domain names to IP addresses", "Encrypt data", "Manage network connections", "Store web pages"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is NOT an operating system?",
+    "options": ["Linux", "Windows", "Chrome", "macOS"],
+    "answer": 2
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Simple Query Language", "Sequential Query Language", "Standard Query Language"],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol is used for secure communication over the Internet?",
+    "options": ["HTTP", "FTP", "SMTP", "HTTPS"],
+    "answer": 3
+  },
+  {
+    "question": "What is virtualization in computer systems?",
+    "options": ["Running multiple operating systems on one physical machine", "Compressing files", "Installing drivers", "Managing memory"],
+    "answer": 0
+  },
+  {
+    "question": "What is the function of a firewall?",
+    "options": ["Prevent unauthorized access", "Speed up internet", "Store data", "Control power supply"],
+    "answer": 0
+  },
+  {
+    "question": "Which language is commonly used for scripting in web browsers?",
+    "options": ["Java", "JavaScript", "Python", "C++"],
+    "answer": 1
+  },
+  {
+    "question": "What is the main advantage of NoSQL databases over SQL databases?",
+    "options": ["Support for structured data only", "Better scalability and flexibility", "Simpler query language", "Faster joins"],
+    "answer": 1
+  },
+  {
+    "question": "What is a deadlock in operating systems?",
+    "options": ["When processes are blocked forever waiting for resources", "When a program crashes", "When memory is full", "When CPU is idle"],
+    "answer": 0
+  },
+  {
+    "question": "Which sorting algorithm has the worst-case time complexity of O(n²)?",
+    "options": ["Merge Sort", "Quick Sort", "Bubble Sort", "Heap Sort"],
+    "answer": 2
+  },
+  {
+    "question": "What is the role of DNS in networking?",
+    "options": ["Route data packets", "Translate IP to domain names", "Translate domain names to IP addresses", "Encrypt data"],
+    "answer": 2
+  },
+  {
+    "question": "Which OS manages hardware resources and provides services for programs?",
+    "options": ["Firmware", "Operating System", "Compiler", "Browser"],
+    "answer": 1
+  },
+  {
+    "question": "Which protocol is connection-oriented?",
+    "options": ["TCP", "UDP", "IP", "HTTP"],
+    "answer": 0
+  },
+  {
+    "question": "What is the main purpose of a compiler?",
+    "options": ["Interpret code line by line", "Convert source code to machine code", "Manage memory", "Handle user input"],
+    "answer": 1
+  },
+  {
+    "question": "Which data structure uses LIFO (Last In, First Out)?",
+    "options": ["Queue", "Stack", "Array", "Linked List"],
+    "answer": 1
+  },
+  {
+    "question": "What is encapsulation in Object-Oriented Programming?",
+    "options": ["Hiding internal details and exposing only necessary parts", "Ability to inherit properties", "Ability to take many forms", "Combining data and functions"],
+    "answer": 0
+  },
+  {
+    "question": "Which SQL statement is used to remove rows from a table?",
+    "options": ["DELETE", "DROP", "REMOVE", "CLEAR"],
+    "answer": 0
+  },
+  {
+    "question": "What is the purpose of the ARP protocol?",
+    "options": ["Map IP addresses to MAC addresses", "Encrypt data", "Route packets", "Translate domain names"],
+    "answer": 0
+  },
+  {
+    "question": "What is the difference between process and thread?",
+    "options": ["Process is smaller", "Thread is a lightweight process", "Thread has separate memory", "Processes share memory"],
+    "answer": 1
+  },
+  {
+    "question": "What is a cache memory used for?",
+    "options": ["Store frequently used data for quick access", "Store all program data", "Backup storage", "Store user files"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of functional programming?",
+    "options": ["Mutable state", "First-class functions", "Class-based inheritance", "Side effects"],
+    "answer": 1
+  },
+  {
+    "question": "What is a kernel in operating systems?",
+    "options": ["Core part that manages resources", "User interface", "File system", "Application software"],
+    "answer": 0
+  },
+  {
+    "question": "What does 'latency' refer to in networking?",
+    "options": ["Amount of data transferred", "Delay before transfer starts", "Bandwidth", "Connection speed"],
+    "answer": 1
+  },
+  {
+    "question": "Which algorithmic technique uses overlapping subproblems?",
+    "options": ["Greedy", "Dynamic Programming", "Divide and Conquer", "Backtracking"],
+    "answer": 1
+  },
+  {
+    "question": "Which one is NOT a programming paradigm?",
+    "options": ["Object-oriented", "Functional", "Procedural", "Hardware-level"],
+    "answer": 3
+  },
+  {
+    "question": "Which memory is fastest in a computer?",
+    "options": ["Cache", "RAM", "Hard Drive", "ROM"],
+    "answer": 0
+  },
+  {
+    "question": "What is the function of a router?",
+    "options": ["Connects different networks", "Provides IP addresses", "Encrypts data", "Manages files"],
+    "answer": 0
+  },
+  {
+    "question": "Which is a stable sorting algorithm?",
+    "options": ["Quick Sort", "Merge Sort", "Heap Sort", "Selection Sort"],
+    "answer": 1
+  },
+  {
+    "question": "What is the primary purpose of an IP address?",
+    "options": ["Identify a device on a network", "Encrypt data", "Manage files", "Control network traffic"],
+    "answer": 0
+  },
+  {
+    "question": "Which protocol is used to send emails?",
+    "options": ["HTTP", "FTP", "SMTP", "DNS"],
+    "answer": 2
+  },
+  {
+    "question": "What is virtual memory?",
+    "options": ["Memory on disk used as RAM", "Actual RAM", "Cache memory", "Memory for graphics"],
+    "answer": 0
+  },
+  {
+    "question": "Which sorting algorithm is best for nearly sorted data?",
+    "options": ["Bubble Sort", "Insertion Sort", "Merge Sort", "Quick Sort"],
+    "answer": 1
+  },
+  {
+    "question": "What is a pointer in programming?",
+    "options": ["A variable storing memory address", "A function parameter", "A data type", "A loop control variable"],
+    "answer": 0
+  },
+  {
+    "question": "Which device connects multiple devices in a network segment?",
+    "options": ["Router", "Switch", "Modem", "Firewall"],
+    "answer": 1
+  },
+  {
+    "question": "What does SQL JOIN do?",
+    "options": ["Combines rows from two or more tables", "Deletes rows", "Updates tables", "Filters rows"],
+    "answer": 0
+  },
+  {
+    "question": "Which programming paradigm focuses on objects and classes?",
+    "options": ["Procedural", "Functional", "Object-Oriented", "Logic"],
+    "answer": 2
+  },
+  {
+    "question": "What is a race condition in concurrent programming?",
+    "options": ["Simultaneous access leading to unpredictable results", "Slow program execution", "Deadlock", "Memory leak"],
+    "answer": 0
+  },
+  {
+    "question": "Which memory management technique allocates memory at runtime?",
+    "options": ["Static allocation", "Dynamic allocation", "Stack allocation", "Heap allocation"],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of a checksum in networking?",
+    "options": ["Error detection", "Encrypt data", "Compress data", "Manage IP addresses"],
+    "answer": 0
+  },
+  {
+    "question": "Which programming language is known for system-level programming?",
+    "options": ["Python", "C", "JavaScript", "HTML"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a NoSQL database?",
+    "options": ["MongoDB", "Cassandra", "MySQL", "Redis"],
+    "answer": 2
+  }
+ ]
